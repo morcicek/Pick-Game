@@ -81,8 +81,6 @@ newRoll.addEventListener("click", () => {
 
 I still work on Web Development and want to build more project with JavaScript.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 
 - Lınkedin - [Mehmet Cevat Morcicek](https://www.linkedin.com/in/mehmet-cevat-morcicek-b50a29178/)
